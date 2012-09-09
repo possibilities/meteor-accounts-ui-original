@@ -1,0 +1,9 @@
+{
+  "meteor": {
+    "git": "https://github.com/meteor/meteor.git",
+    "branch": "auth"
+  },
+  "packages": {
+    "deploy-config": "0.0.3"
+  }
+}
